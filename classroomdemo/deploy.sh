@@ -15,6 +15,6 @@ git add -A
 git commit -m 'deploy'
 
 # 提交到 git@github.com:niubizhao/classroom.git 项目的 master 分支
-git push -f https://github.com/niubizhao/aaausername/classroomdemo.github.io master:gh-pages
+git push -f https://github.com/niubizhao/aaausername.github.io master:gh-pages
 
 cd -
